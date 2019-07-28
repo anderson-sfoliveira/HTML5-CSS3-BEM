@@ -25,9 +25,6 @@ Curso : Web Design Responsivo com HTML5, CSS3 e BEM
 
 	Elementos estruturais
 
-
-
-
 - Começando com CSS
 
 	O que é CSS
@@ -60,8 +57,6 @@ Curso : Web Design Responsivo com HTML5, CSS3 e BEM
 
 	Box model e a propriedade box-sizing
 
-
-
 - Iniciando o projeto do curso
 
 	Preparando o projeto
@@ -84,8 +79,6 @@ Curso : Web Design Responsivo com HTML5, CSS3 e BEM
 
 	Reset CSS e Normalize.css
 
-
-
 - Web Design Responsivo
 
 	O que é Responsive Web Design?
@@ -105,8 +98,6 @@ Curso : Web Design Responsivo com HTML5, CSS3 e BEM
 	Sistema de grid do Bootstrap
 
 	Ajustando o projeto para usar Grid CSS
-
-
 
 - Especificidade, BEM e boas práticas
 
