@@ -112,3 +112,6 @@ Curso : Web Design Responsivo com HTML5, CSS3 e BEM
 	Como usar BEM na prática - parte 2
 
 	Ajustando o projeto do curso com BEM
+
+	Mais organização: CSS com Guidelines
+
