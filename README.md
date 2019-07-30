@@ -105,8 +105,10 @@ Curso : Web Design Responsivo com HTML5, CSS3 e BEM
 
 	Caos no CSS: porque uma metodologia é importante?
 
-	A Metodologia BEM: seu código escalável
+	A Metodologia BEM (Block, Element, Modifier): seu código escalável
 
 	Como usar BEM na prática - parte 1
 
 	Como usar BEM na prática - parte 2
+
+	Ajustando o projeto do curso com BEM
