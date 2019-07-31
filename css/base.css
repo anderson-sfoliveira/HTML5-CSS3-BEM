@@ -1,3 +1,9 @@
+html {
+     /* Se o "Tamanho da fonte" do navegador for "Médio (Recomendado)" então o fonte padrão será de 10px. */
+     /* 10px é 62.5% de 16px que é a fonte média */
+    font-size: 62.5%;
+}
+
 body {
     /* Posicionamento */
 

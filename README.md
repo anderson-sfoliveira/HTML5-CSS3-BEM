@@ -115,3 +115,9 @@ Curso : Web Design Responsivo com HTML5, CSS3 e BEM
 
 	Mais organização: CSS com Guidelines
 
+7. Encerrando o projeto e mais CSS
+
+	7.1. Unidades de medida: em e rem
+
+	7.2. Ajustando unidades de medida no projeto
+
