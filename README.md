@@ -121,3 +121,4 @@ Curso : Web Design Responsivo com HTML5, CSS3 e BEM
 
 	7.2. Ajustando unidades de medida no projeto
 
+	7.3. Adicionando chamada principal
