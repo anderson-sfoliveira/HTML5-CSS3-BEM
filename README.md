@@ -122,3 +122,13 @@ Curso : Web Design Responsivo com HTML5, CSS3 e BEM
 	7.2. Ajustando unidades de medida no projeto
 
 	7.3. Adicionando chamada principal
+
+	7.4. Adicionando depoimento 10m 21s
+
+	7.5. Adicionando rodapé 3m 2s
+
+	7.6. Posicionamento estático e fixo 10m 55s
+
+	7.7. Posicionamento relativo 4m 41s
+
+	7.8. Posicionamento absoluto
