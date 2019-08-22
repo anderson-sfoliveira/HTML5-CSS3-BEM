@@ -123,12 +123,18 @@ Curso : Web Design Responsivo com HTML5, CSS3 e BEM
 
 	7.3. Adicionando chamada principal
 
-	7.4. Adicionando depoimento 10m 21s
+	7.4. Adicionando depoimento
 
-	7.5. Adicionando rodapé 3m 2s
+	7.5. Adicionando rodapé
 
-	7.6. Posicionamento estático e fixo 10m 55s
+	7.6. Posicionamento estático e fixo
 
-	7.7. Posicionamento relativo 4m 41s
+	7.7. Posicionamento relativo
 
 	7.8. Posicionamento absoluto
+
+	7.9. Adicionando rótulo no plano
+
+	7.10. Ajustando margem do plano
+
+	7.11. Adicionando aspas no depoimento
