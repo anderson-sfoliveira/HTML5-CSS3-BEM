@@ -138,3 +138,20 @@ Curso : Web Design Responsivo com HTML5, CSS3 e BEM
 	7.10. Ajustando margem do plano
 
 	7.11. Adicionando aspas no depoimento
+
+	7.12. Adicionando o bloco de navegação
+
+	7.13. Adicionando o menu para telas pequenas
+
+	7.14. Ajustando o menu para telas médias e grandes
+
+	7.15. JavaScript Hook: chaveando o menu
+
+	7.16. Criando um formulário: assinatura de plano
+
+	7.17. Concluindo o formulário de assinatura de plano
+
+	7.18. Entendendo as tabelas do HTML
+
+	7.19. Aplicando estilos em tabelas com CSS
+
