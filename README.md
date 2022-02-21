@@ -1,157 +1,66 @@
-# Web Design Responsivo com HTML5, CSS3 e BEM
+<h1 align="center">
+   Web Design Responsivo com HTML5, CSS3 e BEM
+</h1>
 
-AlgaWorks
-www.algaworks.com
+<h4 align="center">
+	üöß Conclu√≠do üöß
+</h4>
 
-Curso : Web Design Responsivo com HTML5, CSS3 e BEM
+√çndice
+=================
+<!--ts-->
+   * [Sobre o projeto](#-sobre-o-projeto)
+   * [Como executar o projeto](#-como-executar-o-projeto)
+   * [Tecnologias](#-tecnologias)
+   * [Autor](#-autor)
+<!--te-->
 
-- ComeÁando com HTML
 
-	O que È HTML?
+## üíª Sobre o projeto
 
-	Estrutura b·sica do documento
+Projeto criado durante o curso __Web Design Responsivo com HTML5, CSS3 e BEM__. Foi criado um CRUD de cidades.
+Projeto desenvolvido durante o curso **Web Design Responsivo com HTML5, CSS3 e BEM** oferecida pela [Algaworks](https://www.algaworks.com//).
 
-	DOCTYPE e codificaÁ„o
+---
 
-	Primeiras tags: tÌtulos, quebras de linhas e par·grafos
+## üöÄ Como executar o projeto
 
-	Coment·rios
+Este projeto est√° configurado no GitHub Pages:
 
-	 nfase, import‚ncia e marcaÁ„o
+- https://anderson-sfoliveira.github.io/HTML5-CSS3-BEM/
 
-	Imagens
+Mas tamb√©m pode ser aberto localmente:
 
-	¬ncoras (links)
+```bash
+# Clone este reposit√≥rio
+$ git clone https://github.com/anderson-sfoliveira/HTML5-CSS3-BEM.git
 
-	Elementos estruturais
+# Acesse a pasta do projeto e abra o arquivo index.html
+```
 
-- ComeÁando com CSS
+---
 
-	O que È CSS
+## üõ† Tecnologias
 
-	Estilos incorporados e Regras CSS
+As seguintes ferramentas foram usadas na constru√ß√£o do projeto:
 
-	Estilos em arquivos externos
+-   **[HTML]**
+-   **[CSS]**
+-   **[JavaScript]**
 
-	Seletores de tipo, classe e ID
+---
 
-	Agrupando seletores
+## üë®üèΩ‚Äçüíª Autor
 
-	Seletores descendentes
+<a href="https://www.linkedin.com/in/anderson-sfoliveira/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/2175235?s=400&u=432d3456eb62f2df111abdccd667976321f6f74a&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Anderson Oliveira</b></sub></a> <a href="https://www.linkedin.com/in/anderson-sfoliveira/" title="Anderson Oliveira"></a>
+ <br />
 
-	Seletores de filhos diretos
+[![Linkedin Badge](https://img.shields.io/badge/-Anderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-sfoliveira/)](https://www.linkedin.com/in/anderson-sfoliveira/) 
+[![Gmail Badge](https://img.shields.io/badge/-anderson.sfoliveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.sfoliveira@gmail.com)](mailto:anderson.sfoliveira@gmail.com)
 
-	Cores
+Feito com ‚ù§Ô∏è por Anderson Oliveira üëãüèΩ Entre em contato!
 
-	FormataÁ„o de textos
-
-	Inspecionando com Chrome DevTools
-
-	Entendendo a propriedade display
-
-	Adicionando bordas
-
-	EspaÁamento interno (padding)
-
-	Margens de elementos
-
-	Box model e a propriedade box-sizing
-
-- Iniciando o projeto do curso
-
-	Preparando o projeto
-
-	Criando o cabeÁalho da p·gina
-
-	Listas ordenadas e n„o-ordenadas
-
-	Adicionando os planos
-
-	Flutuando elementos
-
-	Usando pseudo-elementos
-
-	Configurando os planos lado a lado com float
-
-	Criando um bot„o
-
-	As pseudo-classes :focus e :hover
-
-	Reset CSS e Normalize.css
-
-- Web Design Responsivo
-
-	O que È Responsive Web Design?
-
-	Unidade de medida: pixel
-
-	Unidade de medida: percentual
-
-	Meta tag viewport
-
-	Layout fixo e fluÌdo
-
-	Layout responsivo e media queries
-
-	Como funciona um sistema de Grid CSS
-
-	Sistema de grid do Bootstrap
-
-	Ajustando o projeto para usar Grid CSS
-
-- Especificidade, BEM e boas pr·ticas
-
-	Especificidade do CSS
-
-	Caos no CSS: porque uma metodologia È importante?
-
-	A Metodologia BEM (Block, Element, Modifier): seu cÛdigo escal·vel
-
-	Como usar BEM na pr·tica - parte 1
-
-	Como usar BEM na pr·tica - parte 2
-
-	Ajustando o projeto do curso com BEM
-
-	Mais organizaÁ„o: CSS com Guidelines
-
-7. Encerrando o projeto e mais CSS
-
-	7.1. Unidades de medida: em e rem
-
-	7.2. Ajustando unidades de medida no projeto
-
-	7.3. Adicionando chamada principal
-
-	7.4. Adicionando depoimento
-
-	7.5. Adicionando rodapÈ
-
-	7.6. Posicionamento est·tico e fixo
-
-	7.7. Posicionamento relativo
-
-	7.8. Posicionamento absoluto
-
-	7.9. Adicionando rÛtulo no plano
-
-	7.10. Ajustando margem do plano
-
-	7.11. Adicionando aspas no depoimento
-
-	7.12. Adicionando o bloco de navegaÁ„o
-
-	7.13. Adicionando o menu para telas pequenas
-
-	7.14. Ajustando o menu para telas mÈdias e grandes
-
-	7.15. JavaScript Hook: chaveando o menu
-
-	7.16. Criando um formul·rio: assinatura de plano
-
-	7.17. Concluindo o formul·rio de assinatura de plano
-
-	7.18. Entendendo as tabelas do HTML
-
-	7.19. Aplicando estilos em tabelas com CSS
-
+---
