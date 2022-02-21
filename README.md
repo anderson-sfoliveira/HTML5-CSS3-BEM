@@ -18,7 +18,7 @@
 
 ## 💻 Sobre o projeto
 
-Projeto desenvolvido durante o curso **Web Design Responsivo com HTML5, CSS3 e BEM** oferecida pela [Algaworks](https://www.algaworks.com//).
+Projeto desenvolvido durante o curso **Web Design Responsivo com HTML5, CSS3 e BEM** oferecido pela [Algaworks](https://www.algaworks.com/).
 
 ---
 
