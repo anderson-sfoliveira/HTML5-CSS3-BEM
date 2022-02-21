@@ -18,7 +18,6 @@
 
 ## 💻 Sobre o projeto
 
-Projeto criado durante o curso __Web Design Responsivo com HTML5, CSS3 e BEM__. Foi criado um CRUD de cidades.
 Projeto desenvolvido durante o curso **Web Design Responsivo com HTML5, CSS3 e BEM** oferecida pela [Algaworks](https://www.algaworks.com//).
 
 ---
